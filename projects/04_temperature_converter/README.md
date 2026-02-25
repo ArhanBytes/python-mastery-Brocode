@@ -1,8 +1,3 @@
-Here is your clean and professional `README.md` content for the **Temperature Conversion Program** 👇
-(You can copy-paste directly into `projects/temperature_converter/README.md`)
-
----
-
 # 🌡️ Temperature Conversion Program
 
 ## 📌 Project Description

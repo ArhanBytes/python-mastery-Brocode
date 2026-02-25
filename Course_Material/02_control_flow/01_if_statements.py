@@ -1,6 +1,6 @@
 """
 Topic: If Statements
-Section: Fundamentals
+Section: Control Flow
 Description:
 Demonstrates conditional logic using if, elif, and else statements
 to handle user input, validate conditions, and control program flow.

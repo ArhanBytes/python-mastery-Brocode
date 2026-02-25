@@ -1,8 +1,3 @@
-Here is your clean and professional `README.md` content for the **Weight Converter Project** 👇
-(You can copy-paste directly into `projects/weight_converter/README.md`)
-
----
-
 # ⚖️ Weight Converter Program
 
 ## 📌 Project Description

@@ -47,6 +47,8 @@
 | 8 | [⭐ Calculator](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=3606) | Project | [`projects/02_calculator/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/02_calculator/) |
 | 9 | [⭐ Weight Conversion](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=3959) | Project | [`projects/03_weight_converter/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/03_weight_converter/) |
 | 10 | [⭐ Temperature Conversion](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=4199) | Project | [`projects/04_temperature_converter/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/04_temperature_converter/) |
+| 11 | [Logical Operators](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=4438) | Control Flow | [`02_control_flow/02_logical_operators.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/02_control_flow/02_logical_operators.py) |
+| 12 | [Conditional Expressions](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=4888) | Control Flow | [`02_control_flow/03_conditional_expressions.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/02_control_flow/03_conditional_expressions.py) |
 
 </details>
 
