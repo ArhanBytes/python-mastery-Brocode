@@ -38,6 +38,15 @@
 | # | Topic | Category | File Location |
 |---|-------|----------|---------------|
 | 1 | [Python Tutorial](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=0) | Fundamentals | [`01_fundamentals/00_intro.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/01_fundamentals/00_intro.py) |
+| 2 | [Variables](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=349) | Fundamentals | [`01_fundamentals/01_variables.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/01_fundamentals/01_variables.py) |
+| 3 | [Type Casting](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=965) | Fundamentals | [`01_fundamentals/02_type_casting.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/01_fundamentals/02_type_casting.py) |
+| 4 | [User Input](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=1275) | Fundamentals | [`01_fundamentals/03_user_input.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/01_fundamentals/03_user_input.py) |
+| 5 | [⭐ Madlibs Game](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=1962) | Project | [`projects/01_madlibs/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/01_madlibs/) |
+| 6 | [Arithmetic & Math](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=2275) | Fundamentals | [`01_fundamentals/04_arithmetic_math.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/01_fundamentals/04_arithmetic_math.py) |
+| 7 | [If Statements](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=3106) | Control Flow | [`02_control_flow/01_if_statements.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/02_control_flow/01_if_statements.py) |
+| 8 | [⭐ Calculator](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=3606) | Project | [`projects/02_calculator/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/02_calculator/) |
+| 9 | [⭐ Weight Conversion](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=3959) | Project | [`projects/03_weight_converter/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/03_weight_converter/) |
+| 10 | [⭐ Temperature Conversion](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=4199) | Project | [`projects/04_temperature_converter/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/04_temperature_converter/) |
 
 </details>
 
