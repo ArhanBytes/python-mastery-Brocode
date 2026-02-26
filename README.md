@@ -49,6 +49,18 @@
 | 10 | [⭐ Temperature Conversion](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=4199) | Project | [`projects/04_temperature_converter/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/04_temperature_converter/) |
 | 11 | [Logical Operators](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=4438) | Control Flow | [`02_control_flow/02_logical_operators.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/02_control_flow/02_logical_operators.py) |
 | 12 | [Conditional Expressions](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=4888) | Control Flow | [`02_control_flow/03_conditional_expressions.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/02_control_flow/03_conditional_expressions.py) |
+| 13 | [String Methods](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=5223) | Fundamentals | [`01_fundamentals/05_string_methods.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/01_fundamentals/05_string_methods.py) |
+| 14 | [String Indexing](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=5948) | Fundamentals | [`01_fundamentals/06_string_indexing.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/01_fundamentals/06_string_indexing.py) |
+| 15 | [Format Specifiers](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=6395) | Fundamentals | [`01_fundamentals/07_format_specifiers.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/01_fundamentals/07_format_specifiers.py) |
+| 16 | [While Loops](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=6715) | Control Flow | [`02_control_flow/04_while_loops.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/02_control_flow/04_while_loops.py) |
+| 17 | [⭐ Compound Interest](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=7133) | Project | [`projects/05_compound_interest/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/05_compound_interest/) |
+| 18 | [For Loops](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=7588) | Control Flow | [`02_control_flow/05_for_loops.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/02_control_flow/05_for_loops.py) |
+| 19 | [⭐ Countdown Timer](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=7893) | Project | [`projects/06_countdown_timer/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/06_countdown_timer/) |
+| 20 | [Nested Loops](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=8248) | Control Flow | [`02_control_flow/06_nested_loops.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/02_control_flow/06_nested_loops.py) |
+| 21 | [Lists, Sets, Tuples](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=8583) | Collections | [`03_collections/01_lists_sets_tuples.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/03_collections/01_lists_sets_tuples.py) |
+| 22 | [⭐ Shopping Cart](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=9488) | Project | [`projects/07_shopping_cart/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/07_shopping_cart/) |
+| 23 | [2D Collections](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=9921) | Collections | [`03_collections/02_2d_collections.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/03_collections/02_2d_collections.py) |
+| 24 | [⭐ Quiz Game](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=10439) | Project | [`projects/08_quiz_game/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/08_quiz_game/) |
 
 </details>
 
@@ -77,6 +89,24 @@ python-mastery-Brocode/
 └── README.md
 ```
 
+---
+
+## 🚀 Projects Showcase
+
+<div align="center">
+
+| Project                       | Description           | Concepts Used                      |
+| ----------------------------- | --------------------- | ---------------------------------- |
+| 🎮 **Madlibs**                | Word game             | input(), strings, f-strings        |
+| 🧮 **Calculator**             | Basic arithmetic      | functions, conditionals, operators |
+| ⚖️ **Weight Converter**       | Unit conversion       | input(), conditionals, arithmetic  |
+| 🌡️ **Temperature Converter** | Celsius/Fahrenheit    | conditionals, arithmetic           |
+| 💰 **Compound Interest**      | Financial calculator  | loops, arithmetic, variables       |
+| ⏰ **Countdown Timer**         | Time-based app        | for loop, range(), time.sleep()    |
+| 🛒 **Shopping Cart**          | E-commerce simulation | List, Set, Tuple |
+
+
+</div>
 
 ---
 
