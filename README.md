@@ -61,6 +61,7 @@
 | 22 | [⭐ Shopping Cart](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=9488) | Project | [`projects/07_shopping_cart/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/07_shopping_cart/) |
 | 23 | [2D Collections](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=9921) | Collections | [`03_collections/02_2d_collections.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/03_collections/02_2d_collections.py) |
 | 24 | [⭐ Quiz Game](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=10439) | Project | [`projects/08_quiz_game/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/08_quiz_game/) |
+| 25 | [Dictionaries](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=11007) | Collections | [`https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/03_collections/03_dictionaries.py`]
 
 </details>
 
