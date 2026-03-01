@@ -28,7 +28,7 @@ The program asks questions, validates user input, checks answers, and calculates
 2. Open terminal / command prompt.
 3. Navigate to the project folder.
     ```bash
-    cd projects/06_countdown_timer
+    cd projects/08_quiz_game
     ```
 4. Run:
 

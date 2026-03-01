@@ -7,7 +7,7 @@
   [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
   [![PyQt5](https://img.shields.io/badge/PyQt5-5.x-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.riverbankcomputing.com/software/pyqt/)
   [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com)
-  [![Progress](https://img.shields.io/badge/Progress-1%25-success?style=for-the-badge)](https://github.com)
+  [![Progress](https://img.shields.io/badge/Progress-30%25-success?style=for-the-badge)](https://github.com)
   
   ### 📚 A Complete Structured Implementation of 12+ Hour Python Course
   ### 🎯 77 Lessons • 20+ Mini Projects • GUI Apps • API Integration
@@ -61,7 +61,23 @@
 | 22 | [⭐ Shopping Cart](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=9488) | Project | [`projects/07_shopping_cart/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/07_shopping_cart/) |
 | 23 | [2D Collections](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=9921) | Collections | [`03_collections/02_2d_collections.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/03_collections/02_2d_collections.py) |
 | 24 | [⭐ Quiz Game](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=10439) | Project | [`projects/08_quiz_game/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/08_quiz_game/) |
-| 25 | [Dictionaries](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=11007) | Collections | [`https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/03_collections/03_dictionaries.py`]
+| 25 | [Dictionaries](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=11007) | Collections | [`03_collections/03_dictionaries.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/03_collections/03_dictionaries.py) |
+| 26 | [⭐ Concession Stand](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=11493) | Project | [`projects/09_concession_stand/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/09_concession_stand/) |
+| 27 | [Random Numbers](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=11982) | Advanced | [`05_advanced_concepts/02_random_numbers.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/05_advanced_concepts/02_random_numbers.py) |
+| 28 | [⭐ Number Guessing](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=12256) | Project | [`projects/10_number_guessing/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/10_number_guessing/) |
+| 29 | [⭐ Rock Paper Scissors](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=12757) | Project | [`projects/11_rock_paper_scissors/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/11_rock_paper_scissors/) |
+| 30 | [⭐ Dice Roller](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=13326) | Project | [`projects/12_dice_roller/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/12_dice_roller/) |
+| 31 | [Functions](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=13932) | Functions | [`04_functions/01_functions.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/04_functions/01_functions.py) |
+| 32 | [Default Arguments](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=14570) | Functions | [`04_functions/02_default_arguments.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/04_functions/02_default_arguments.py) |
+| 33 | [Keyword Arguments](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=14936) | Functions | [`04_functions/03_keyword_arguments.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/04_functions/03_keyword_arguments.py) |
+| 34 | [*args & **kwargs](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=15340) | Functions | [`04_functions/04_args_kwargs.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/04_functions/04_args_kwargs.py) |
+| 35 | [Iterables](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=16233) | Collections | [`03_collections/05_iterables.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/03_collections/05_iterables.py) |
+| 36 | [Membership Operators](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=16624) | Control Flow | [`02_control_flow/08_membership_operators.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/02_control_flow/08_membership_operators.py) |
+| 37 | [List Comprehensions](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=17156) | Collections | [`03_collections/04_list_comprehensions.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/03_collections/04_list_comprehensions.py) |
+| 38 | [Match-Case](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=17777) | Control Flow | [`02_control_flow/07_match_case.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/02_control_flow/07_match_case.py) |
+| 39 | [Modules](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=18133) | Advanced | [`05_advanced_concepts/01_modules.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/05_advanced_concepts/01_modules.py) |
+| 40 | [Scope Resolution](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=18531) | Functions | [`04_functions/05_scope_resolution.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/04_functions/05_scope_resolution.py) |
+| 41 | [if __name__ == '__main__'](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=18862) | Functions | [`04_functions/06_if_name_main.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/04_functions/06_if_name_main.py) |
 
 </details>
 
@@ -104,7 +120,11 @@ python-mastery-Brocode/
 | 🌡️ **Temperature Converter** | Celsius/Fahrenheit    | conditionals, arithmetic           |
 | 💰 **Compound Interest**      | Financial calculator  | loops, arithmetic, variables       |
 | ⏰ **Countdown Timer**         | Time-based app        | for loop, range(), time.sleep()    |
-| 🛒 **Shopping Cart**          | E-commerce simulation | List, Set, Tuple |
+| ❓ **Quiz Game**            | Trivia game        | Tuples, loops, conditionals, scoring  |
+| 🍿 **Concession Stand**    | Menu system        | Dictionaries, loops, input validation |
+| 🔢 **Number Guessing**     | Random number game | random, loops, conditionals           |
+| 🗿 **Rock Paper Scissors** | Classic game       | random, loops, conditionals           |
+| 🎲 **Dice Roller**         | Dice simulator     | random, dictionaries, nested loops    |
 
 
 </div>

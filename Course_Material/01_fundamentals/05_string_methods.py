@@ -14,11 +14,11 @@ name = input("Enter your full name: ")
 result = len(name)
 print(f"Length: {result}")
 
-# ----- string.find() function (gives position of first occurence of given character) -----
+# ----- string.find() function (gives position of first occurence of given character else -1) -----
 result = name.find(" ")
 print(f"First occurence position of ' ': {result}")
 
-# ----- string.rfind() function (gives position of last occurence of given character) -----
+# ----- string.rfind() function (gives position of last occurence of given character else -1) -----
 result = name.rfind("a")
 print(f"Last Occurence postion of 'a': {result}")
 

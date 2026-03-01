@@ -1,67 +1,118 @@
 """
+=========================================
 Topic: Dictionaries
 Section: Collections
 Description:
-Dictionary = a collection of {key:value} pairs
-ordered and changeable. No duplicates
+Dictionary = a collection of {key: value} pairs
+- Ordered 
+- Changeable (Mutable)
+- No duplicate keys allowed
+=========================================
 """
 
-# --- Creating Dictionary ---
-capitals = {"USA": "Washington D.C.",
-            "India": "New Delhi",
-            "China": "Beijing",
-            "Russia": "Moscow"}
-# --- Methods and Attributes of Dictionary ---
-# print(dir(capitals))
+# ==================================================
+# 1️⃣ Creating a Dictionary
+# ==================================================
+capitals = {
+    "USA": "Washington D.C.",
+    "India": "New Delhi",
+    "China": "Beijing",
+    "Russia": "Moscow"
+}
 
-# --- Methods and Attributes in depth Description ---
-# print(help(capitals))
+# ==================================================
+# 2️⃣ Exploring Dictionary Methods
+# ==================================================
 
-# --- Accessing value correspondin to key (return none if not found)---
-print(capitals.get("China"))
+# print(dir(capitals))   # Shows all available attributes & methods
+# print(help(capitals))  # Detailed explanation of dictionary methods
 
-# --- Handling none value ---
+
+# ==================================================
+# 3️⃣ Accessing Values
+# ==================================================
+
+# Using .get() → Returns None if key not found (no error)
+print("\n--- Accessing Value ---")
+print("Capital of China:", capitals.get("China"))
+
+
+# ==================================================
+# 4️⃣ Handling None Value
+# ==================================================
+
+print("\n--- Checking if Key Exists ---")
 if capitals.get("Japan"):
-    print("The Capital exists")
-else: # none is a false value so it goes there
-    print("The capital does not exist")
+    print("The capital exists.")
+else:
+    # None is treated as False
+    print("The capital does not exist.")
 
-# --- update function (to add/update the existing key value pair) ---  
-capitals.update({"Germany" : "Berlin"})
 
-# --- pop function (remove the pair of given key) ---
+# ==================================================
+# 5️⃣ Updating Dictionary
+# ==================================================
+
+# .update() → Add new key or update existing key
+print("\n--- Updating Dictionary ---")
+capitals.update({"Germany": "Berlin"})
+print("After adding Germany:", capitals)
+
+
+# ==================================================
+# 6️⃣ Removing Elements
+# ==================================================
+
+# .pop() → Removes specific key
+print("\n--- Removing Specific Key (China) ---")
 capitals.pop("China")
+print("After pop:", capitals)
 
-# --- popitem function (remove the last key value pair) ---
+# .popitem() → Removes last inserted key-value pair
+print("\n--- Removing Last Inserted Pair ---")
 capitals.popitem()
+print("After popitem:", capitals)
 
-# --- clear function (to clear the dictionary) ---
+# .clear() → Removes everything
 # capitals.clear()
 
-print(capitals)
-# --- Get all the keys within the dictionary not value ---
-keys = capitals.keys() # return object which resembles a list of keys
-print(keys)
 
-# --- printing keys using for loop ---
+# ==================================================
+# 7️⃣ Working with Keys
+# ==================================================
+
+print("\n--- Dictionary Keys ---")
+keys = capitals.keys()   # Returns a dict_keys object
+print("Keys object:", keys)
+
 for key in capitals.keys():
     print(f"Key: {key}")
-    
-# --- Get all the value within the dictionary not keys ---
-values = capitals.values() # returns an object which resembles a list of values
-print(values)
 
-# --- printing values using for loop ---
+
+# ==================================================
+# 8️⃣ Working with Values
+# ==================================================
+
+print("\n--- Dictionary Values ---")
+values = capitals.values()   # Returns a dict_values object
+print("Values object:", values)
+
 for value in capitals.values():
     print(f"Value: {value}")
-    
-# --- Get all the items in dictionary (trickier one) ---
-items = capitals.items()
-print(items) # returns an object which resembles a 2d list of tuple
 
-# --- Printing items using for loop
+
+# ==================================================
+# 9️⃣ Working with Items (Key + Value)
+# ==================================================
+
+print("\n--- Dictionary Items ---")
+items = capitals.items()   # Returns dict_items object (like 2D tuples)
+print("Items object:", items)
+
+# Method 1
 for item in capitals.items():
     print(f"Key: {item[0]}, Value: {item[1]}")
-# OR
+
+# Method 2 (Better way)
 for key, value in capitals.items():
     print(f"Key: {key}, Value: {value}")
