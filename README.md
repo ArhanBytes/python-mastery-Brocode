@@ -78,6 +78,10 @@
 | 39 | [Modules](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=18133) | Advanced | [`05_advanced_concepts/01_modules.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/05_advanced_concepts/01_modules.py) |
 | 40 | [Scope Resolution](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=18531) | Functions | [`04_functions/05_scope_resolution.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/04_functions/05_scope_resolution.py) |
 | 41 | [if __name__ == '__main__'](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=18862) | Functions | [`04_functions/06_if_name_main.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/04_functions/06_if_name_main.py) |
+| 42 | [⭐ Banking Program](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=19414) | Project | [`projects/13_banking_system/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/13_banking_system/) |
+| 43 | [⭐ Slot Machine](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=20314) | Project | [`projects/14_slot_machine/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/14_slot_machine/) |
+| 44 | [⭐ Encryption Program](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=21525) | Project | [`projects/15_encryption_program/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/15_encryption_program/) |
+| 45 | [⭐ Hangman](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=22046) | Project | [`projects/16_hangman/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/16_hangman/) |
 
 </details>
 
@@ -165,11 +169,11 @@ python "projects/16_hangman/main.py"
 
 ## 📊 Progress Tracker
 
-- [ ] 📘 Fundamentals    
-- [ ] 🔀 Control Flow    
-- [ ] 📦 Collections     
-- [ ] 🧩 Functions       
-- [ ] 🧠 Advanced        
+- [x] 📘 Fundamentals    
+- [x] 🔀 Control Flow    
+- [x] 📦 Collections     
+- [x] 🧩 Functions       
+- [x] 🧠 Advanced        
 - [ ] 🏗️ OOP             
 - [ ] 📁 Files & Excep   
 - [ ] ⚙️ Concurrency/API 
