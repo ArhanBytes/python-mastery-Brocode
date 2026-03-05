@@ -82,6 +82,16 @@
 | 43 | [⭐ Slot Machine](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=20314) | Project | [`projects/14_slot_machine/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/14_slot_machine/) |
 | 44 | [⭐ Encryption Program](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=21525) | Project | [`projects/15_encryption_program/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/15_encryption_program/) |
 | 45 | [⭐ Hangman](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=22046) | Project | [`projects/16_hangman/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/16_hangman/) |
+| 46 | [OOP Intro](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=23552) | OOP | [`06_oop/01_oop_intro.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/06_oop/01_oop_intro.py) |
+| 47 | [Class Variables](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=24290) | OOP | [`06_oop/02_class_variables.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/06_oop/02_class_variables.py) |
+| 48 | [Inheritance](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=24786) | OOP | [`06_oop/03_inheritance.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/06_oop/03_inheritance.py) |
+| 49 | [Multiple Inheritance](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=25202) | OOP | [`06_oop/04_multiple_inheritance.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/06_oop/04_multiple_inheritance.py) |
+| 50 | [super()](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=25684) | OOP | [`06_oop/05_super.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/06_oop/05_super.py) |
+| 51 | [Polymorphism](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=26470) | OOP | [`06_oop/06_polymorphism.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/06_oop/06_polymorphism.py) |
+| 52 | [Duck Typing](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=26955) | OOP | [`06_oop/07_duck_typing.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/06_oop/07_duck_typing.py) |
+| 53 | [Static Methods](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=27214) | OOP | [`06_oop/08_static_methods.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/06_oop/08_static_methods.py) |
+| 54 | [Class Methods](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=27571) | OOP | [`06_oop/09_class_methods.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/06_oop/09_class_methods.py) |
+| 55 | [Magic Methods](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=27976) | OOP | [`06_oop/10_magic_methods.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/06_oop/10_magic_methods.py) |
 
 </details>
 
@@ -129,6 +139,10 @@ python-mastery-Brocode/
 | 🔢 **Number Guessing**     | Random number game | random, loops, conditionals           |
 | 🗿 **Rock Paper Scissors** | Classic game       | random, loops, conditionals           |
 | 🎲 **Dice Roller**         | Dice simulator     | random, dictionaries, nested loops    |
+| 🏦 **Banking System** | Account management | Functions, Loops, Conditionals, Input Validation |
+| 🎰 **Slot Machine**   | Casino game        | Random, Lists, Loops, Conditionals |
+| 🔐 **Encryption**     | Message security   | Strings, Indexing, Lists, Random |
+| 👨‍🎤 **Hangman**       | Word guessing      | Dictionaries, Sets, Lists |
 
 
 </div>
