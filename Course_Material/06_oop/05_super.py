@@ -14,7 +14,11 @@ class Shape:
         self.is_filled = is_filled
 
     def describe(self):
-        print(f"This is {self.name}. It color is {self.color} and {'filled' if self.is_filled else 'not filled'}. ", end="")
+        print(
+            f"This is {self.name}. It color is {self.color} and {'filled' if self.is_filled else 'not filled'}. ",
+            end="",
+        )
+
 
 # In programming we do not want to repeat ourselves. Here color and filled is repeating. Therefore we make another class name shape
 class Circle(Shape):
@@ -25,6 +29,8 @@ class Circle(Shape):
     def describe(self):
         super().describe()
         print(f"It radius is {self.radius}cm")
+
+
 class Square(Shape):
     def __init__(self, name, color, is_filled, side):
         super().__init__(name, color, is_filled)
@@ -34,11 +40,13 @@ class Square(Shape):
         super().describe()
         print(f"It length is {self.side}cm")
 
+
 class Triangle(Shape):
     def __init__(self, name, color, is_filled, width, height):
         super().__init__(name, color, is_filled)
         self.width = width
         self.height = height
+
     def describe(self):
         super().describe()
         print(f"It width is {self.width} and height is {self.height}")

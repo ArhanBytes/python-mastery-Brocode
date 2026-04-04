@@ -56,7 +56,7 @@ def main():
         print("Spinnning.....\n")
         
         row = spin_row()
-        print(row)
+        print_row(row)
         payout = get_payout(row, bet_amount)
         
         if payout > 0:
