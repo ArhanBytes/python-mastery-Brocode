@@ -92,7 +92,28 @@
 | 53 | [Static Methods](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=27214) | OOP | [`06_oop/08_static_methods.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/06_oop/08_static_methods.py) |
 | 54 | [Class Methods](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=27571) | OOP | [`06_oop/09_class_methods.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/06_oop/09_class_methods.py) |
 | 55 | [Magic Methods](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=27976) | OOP | [`06_oop/10_magic_methods.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/06_oop/10_magic_methods.py) |
-
+| 56 | [@property](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=28791) | Advanced | [`05_advanced_concepts/04_property_decorator.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/05_advanced_concepts/04_property_decorator.py) |
+| 57 | [Decorators](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=29253) | Advanced | [`05_advanced_concepts/03_decorators.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/05_advanced_concepts/03_decorators.py) |
+| 58 | [Exception Handling](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=29697) | Files & Exceptions | [`07_files_exceptions/01_exception_handling.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/07_files_exceptions/01_exception_handling.py) |
+| 59 | [File Detection](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=30046) | Files & Exceptions | [`07_files_exceptions/02_file_detection.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/07_files_exceptions/02_file_detection.py) |
+| 60 | [Writing Files](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=30467) | Files & Exceptions | [`07_files_exceptions/03_writing_files.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/07_files_exceptions/03_writing_files.py) |
+| 61 | [Reading Files](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=31293) | Files & Exceptions | [`07_files_exceptions/04_reading_files.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/07_files_exceptions/04_reading_files.py) |
+| 62 | [Dates & Times](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=31709) | Advanced | [`05_advanced_concepts/05_dates_times.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/05_advanced_concepts/05_dates_times.py) |
+| 63 | [⭐ Alarm Clock](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=32086) | Project | [`projects/17_alarm_clock/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/17_alarm_clock/) |
+| 64 | [Multithreading](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=32703) | Concurrency | [`08_concurrency_api/01_multithreading.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/08_concurrency_api/01_multithreading.py) |
+| 65 | [Request API Data](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=33225) | Concurrency | [`08_concurrency_api/02_request_api_data.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/08_concurrency_api/02_request_api_data.py) |
+| 66 | [PyQt5 Intro](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=33739) | GUI | [`09_gui_pyqt5/01_intro.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/09_gui_pyqt5/01_intro.py) |
+| 67 | [PyQt5 Labels](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=34287) | GUI | [`09_gui_pyqt5/02_labels.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/09_gui_pyqt5/02_labels.py) |
+| 68 | [PyQt5 Images](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=34823) | GUI | [`09_gui_pyqt5/03_images.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/09_gui_pyqt5/03_images.py) |
+| 69 | [Layout Managers](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=35188) | GUI | [`09_gui_pyqt5/04_layout_managers.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/09_gui_pyqt5/04_layout_managers.py) |
+| 70 | [PyQt5 Buttons](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=35587) | GUI | [`09_gui_pyqt5/05_buttons.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/09_gui_pyqt5/05_buttons.py) |
+| 71 | [PyQt5 Checkboxes](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=36012) | GUI | [`09_gui_pyqt5/06_checkboxes.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/09_gui_pyqt5/06_checkboxes.py) |
+| 72 | [Radio Buttons](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=36402) | GUI | [`09_gui_pyqt5/07_radio_buttons.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/09_gui_pyqt5/07_radio_buttons.py) |
+| 73 | [Line Edits](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=36955) | GUI | [`09_gui_pyqt5/08_line_edits.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/09_gui_pyqt5/08_line_edits.py) |
+| 74 | [CSS Styles](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=37315) | GUI | [`09_gui_pyqt5/09_css_styles.py`](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/Course_Material/09_gui_pyqt5/09_css_styles.py) |
+| 75 | [⭐ Digital Clock](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=37968) | Project | [`projects/18_digital_clock/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/18_digital_clock/) |
+| 76 | [⭐ Stopwatch](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=38918) | Project | [`projects/19_stopwatch/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/19_stopwatch/) |
+| 77 | [⭐ Weather API App](https://youtu.be/ix9cRaBkVe0?si=PMMSXoTXeuE8yxTe&t=39965) | Project | [`projects/20_weather_api_app/`](https://github.com/ArhanBytes/python-mastery-Brocode/tree/main/projects/20_weather_api_app/) |
 </details>
 
 ---
@@ -188,11 +209,11 @@ python "projects/16_hangman/main.py"
 - [x] 📦 Collections     
 - [x] 🧩 Functions       
 - [x] 🧠 Advanced        
-- [ ] 🏗️ OOP             
-- [ ] 📁 Files & Excep   
-- [ ] ⚙️ Concurrency/API 
-- [ ] 🖥️ GUI PyQt5       
-- [ ] ⭐ Projects        
+- [x] 🏗️ OOP             
+- [x] 📁 Files & Excep   
+- [x] ⚙️ Concurrency/API 
+- [x] 🖥️ GUI PyQt5       
+- [x] ⭐ Projects        
 
 ---
 
