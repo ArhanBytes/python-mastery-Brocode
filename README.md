@@ -7,7 +7,7 @@
   [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
   [![PyQt5](https://img.shields.io/badge/PyQt5-5.x-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.riverbankcomputing.com/software/pyqt/)
   [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com)
-  [![Progress](https://img.shields.io/badge/Progress-30%25-success?style=for-the-badge)](https://github.com)
+  [![Progress](https://img.shields.io/badge/Progress-100%25-success?style=for-the-badge)](https://github.com)
   
   ### 📚 A Complete Structured Implementation of 12+ Hour Python Course
   ### 🎯 77 Lessons • 20+ Mini Projects • GUI Apps • API Integration
