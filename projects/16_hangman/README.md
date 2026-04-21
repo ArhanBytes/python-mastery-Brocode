@@ -1,7 +1,3 @@
-Here is your **README.md content** (copy and paste into your file):
-
----
-
 # 🎮 Hangman Game
 
 A classic command-line Hangman game built using Python.

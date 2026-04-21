@@ -15,9 +15,9 @@ def set_alarm(alarm_time):
         if current_time == alarm_time:
             print("WAKE UPPPPPP!")
             
-            pygame.mixer.init() # library-> module -> function
-            pygame.mixer.music.load(sound_file) # library->module->class->method
-            pygame.mixer.music.play() #library->module->class->method
+            pygame.mixer.init() # package-> module -> function
+            pygame.mixer.music.load(sound_file) # package->module->class->method
+            pygame.mixer.music.play() #package->module->class->method
             
             # jab tak song khatam na ho tab tk chalao
             while pygame.mixer.music.get_busy():
