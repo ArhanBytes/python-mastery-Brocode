@@ -59,7 +59,7 @@ python 19_stopwatch/main.py
 
 ## 🖥️ Preview
 
-![Stopwatch UI]([screenshots/stopwatch.png](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/projects/19_stopwatch/output.png))
+![Stopwatch UI](https://github.com/ArhanBytes/python-mastery-Brocode/blob/main/projects/19_stopwatch/output.png)
 
 ---
 

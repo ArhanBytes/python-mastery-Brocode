@@ -164,10 +164,10 @@ python-mastery-Brocode/
 | 🎰 **Slot Machine**   | Casino game        | Random, Lists, Loops, Conditionals |
 | 🔐 **Encryption**     | Message security   | Strings, Indexing, Lists, Random |
 | 👨‍🎤 **Hangman**       | Word guessing      | Dictionaries, Sets, Lists |
-| ⏰ **Alarm Clock** | Time-based alert | Datetime, threading |
-| 🕒 **Digital Clock** | Live clock | PyQt5, time |
-| ⏱️ **Stopwatch** | Timer app | PyQt5, events |
-| ☀️ **Weather App** | API integration | Requests, JSON, GUI |
+| ⏰ **Alarm Clock** | Time-based alert | Datetime, loops, pygame |
+| 🕒 **Digital Clock** | Live clock | PyQt5, QTimer, QTime |
+| ⏱️ **Stopwatch** | Timer app | PyQt5, QTimer, events |
+| ☀️ **Weather App** | API integration | Requests, JSON, PyQt5 |
 
 
 </div>
